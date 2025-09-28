@@ -24,8 +24,8 @@
 
 ## 1. Клонируйте репозиторий:
 
-bash
 git clone https://github.com/Wonderwol/test_task5_vektor.git
+
 cd test_task5_vektor
 
 ## 2. Создайте и активируйте виртуальное окружение:
